@@ -105,3 +105,6 @@ deploy:
   type: git
   repo: git@github.com:yutaoming/yutaoming.github.io.git
   branch: main
+
+delfile:
+  enable: true
